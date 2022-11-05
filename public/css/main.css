@@ -1,0 +1,182 @@
+html{
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.3em;
+    background-image: url(background1.jpg);
+}
+
+header{
+    text-align: center;
+}
+h1 {
+    color:#1f6130;
+    font-size: 22px;
+    border-radius: 15px 15px 15px 15px;
+    padding: 10px 10px 10px 10px;
+    margin: 30px 500px 30px 500px;
+    background-color: #ffffffa4;
+    box-shadow: 0 0 20px rgba(27, 27, 27, 0.247);
+}
+
+td > img{
+        border-collapse: collapse;
+        width: 1500px;
+}
+.signin {
+    float: Right;
+    margin: 10px 150px auto auto;
+    font-size: 15px;
+    border-radius: 13px 13px 13px 13px;
+    padding: 5px 10px 5px 10px;
+    background-color: #ffffff;
+    box-shadow: 0 0 20px rgba(27, 27, 27, 0.247);
+    
+    
+} 
+    nav {
+        background-color: rgb(95, 202, 130);
+        margin: 20px 250px 20px 250px;
+        border-radius: 20px 20px 20px 20px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.247);
+        
+}
+    nav ul {
+        list-style: none;
+        display: block;
+        box-sizing: border-box;
+        width: 100%;
+        margin: 20px;
+        padding: 20px;
+        text-align: center;
+    }
+
+    nav ul li {
+        display: inline;
+        margin-left: 20px;
+    }
+    
+    nav a {
+        padding: 0 60px 0 0;
+        text-decoration: none;
+        font-size: 20px;
+        color:white;
+    }
+    footer {
+        margin-top: 200px;
+        text-align: center;
+    }
+    
+    table {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 0.9em;
+        font-family: sans-serif;
+        min-width: 400px;
+        background-color: #d4f0dd;
+        border-radius: 10px 10px 10px 10px;
+        overflow: hidden;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.247);
+        padding: 12px 15px;
+    }
+    
+    th, td {
+        border: 0.5px solid rgb(122, 141, 121);
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    .content {
+        margin-top: 100px;
+        display: block;
+        text-align: center;
+        
+    }
+
+    .bg001 img{
+        max-width: 100%;
+        height: auto!important;
+    }
+    .logo img {
+        max-width: 10%;
+        height: auto!important;
+    }
+
+    center, h1 {
+        margin-top: -10px;
+    }
+    .show img{
+        max-width: 15%;
+        height: auto!important;
+        margin-bottom: 100px;
+    }
+    .content .newproduct {
+        margin: 50px 0;
+    }
+    .newproduct a {
+        color: tomato;
+    }
+    .updateproduct a {
+        color: rgba(226, 102, 0, 0.774);
+        margin-right: 50px;
+    }
+    .regions {
+        margin: 50px 0;
+    }
+
+    .newregion a {
+        background-color: #408f6a;
+        color: #ffffff;
+        border-radius: 5px 5px 5px 5px;
+    }
+
+    .signinform {
+        margin: 100px 500px 100px 500px;
+        display: block;
+        text-align: center;
+        border-radius: 30px 30px 30px 30px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        background-color: #9db69d67;
+    }
+
+    .signinform .info {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        color:red;
+        font-size: 15px;
+        font-weight:bold;
+    }
+
+    .signupform {
+        margin: 100px 500px 100px 500px;
+        display: block;
+        text-align: center;
+        border-radius: 5%;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        background-color: #d9f1ff;
+    }
+    .status {
+        margin: 30px 700px 30px 700px;
+        display: block;
+        text-align: center;
+        border: 3px solid red;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .status .info {
+        color: red;
+        font-weight:bold;
+    }
+
+    .content img{
+        height: 100px;
+        width: auto;
+    }
+
+    
+    
+
+    
